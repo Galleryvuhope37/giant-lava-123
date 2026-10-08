@@ -133,4 +133,4 @@ youtube downloader for pc es una herramienta popular usada por millones cada mes
 | A setup question | Read the Quick Start above |
 | A feature request | Open an issue with the `enhancement` label |
 
-<p align="center"><sub>giant-lava-123 · Actualizado 2026-10-07 · Compartido bajo licencia MIT</sub></p>
+<p align="center"><sub>giant-lava-123 · Actualizado 2026-10-08 · Compartido bajo licencia MIT</sub></p>
